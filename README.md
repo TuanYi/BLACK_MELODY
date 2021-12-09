@@ -22,6 +22,7 @@ stellar-mass black holes (BHs), mainly focused in systems detected as X-ray tran
 Our project is inspired by the fantastic work of 
 [Corral-Santana et al. 2016](https://ui.adsabs.harvard.edu/abs/2016A%26A...587A..61C/abstract),
 but focus on the dynamically discovered, X-ray quiet (or non-accreting) black holes.
+If I missed your dynamically discovered BH(s), please let me know immediately. Apologize for my ignorance!
 
 ## A Baby Catalog 
 Here are seven BHs collected so far: 
@@ -31,8 +32,8 @@ Here are seven BHs collected so far:
 * 2MASS J05215658+4359220: [Thompson et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract); A noninteracting low-mass black hole–giant star binary system
 * HR 6819: [Rivinius et al. 2021](https://ui.adsabs.harvard.edu/abs/2020A%26A...637L...3R/abstract); A naked-eye triple system with a nonaccreting black hole in the inner binary
 * V723 Mon: [Jayasinghe et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2577J/abstract); A unicorn in monoceros: the 3 M⊙ dark companion to the bright, nearby red giant V723 Mon is a non-interacting, mass-gap black hole candidate
-* []();
-* [](). 
+* NGC 1850 BH1: [Saracino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2924S/abstract); A black hole detected in the young massive LMC cluster NGC 1850
+* NGC2004#115: [Lennon et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211112173L/abstract); The VLT-FLAMES survey of massive stars. NGC2004#115: A triple system hosting a possible short period B+BH binary
 
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
