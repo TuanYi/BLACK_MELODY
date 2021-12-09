@@ -7,7 +7,7 @@ This repository Will be updated regularly every Friday, with a probability of 0.
 * [The "Baby" Catalog](#The "Baby" Catalog)
 * [Join the Project Now!](#Join the Project Now!)
 * [Maintainers](#Maintainers)
-* [Change Logs](#Change Logs)
+* [Change Log](#Change Log)
 
 ## About
 This is a project aiming to collect stellar-mass black holes (BH) measured by dynamical method.
@@ -27,7 +27,9 @@ Here are seven BHs collected so far: .
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
 
-## I would like to join the project
+## Join the Project Now!
 
 ## Maintainers
 astroyi@stu.xmu.edu.cn
+
+## Change Log
