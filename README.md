@@ -1,5 +1,6 @@
 # BLACK_MELODY
-BLACK holes MEasured or LOcated by DYnamical (radial velocity) method
+BLACK holes MEasured or LOcated by DYnamical (radial velocity) method.
+This repository Will be updated regularly every Friday, with a probability of 0.25.
 
 ## About
 This is a project aiming to collect stellar-mass black holes (BH) measured by dynamical method.
@@ -15,4 +16,6 @@ Our project is inspired by the fantastic work of
 but focus on the dynamically discovered, X-ray quiet (or non-accreting) black holes.
 
 ## The "Baby" Catalog 
-
+Here are seven BHs collected so far: . 
+Athough some of them still has controversy in the community of astronomy,
+many are great systems that definitely worth of take a good study at.
