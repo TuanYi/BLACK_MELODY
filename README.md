@@ -24,7 +24,7 @@ Our project is inspired by the fantastic work of
 but focus on the dynamically discovered, X-ray quiet (or non-accreting) black holes.
 If I missed your dynamically discovered BH(s), please let me know immediately. Apologize for my ignorance!
 
-## Catalog TOday
+## Catalog Today
 Here are seven BHs collected so far: 
 * MW C656: [Casares et al. 2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract); A Be-type star with a black-hole companion
 * LB-1: [Liu et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..618L/abstract); A wide star-black-hole binary system from radial-velocity measurements <br>
