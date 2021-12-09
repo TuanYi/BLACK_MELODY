@@ -3,7 +3,7 @@ BLACK holes MEasured or LOcated by DYnamical (radial velocity) method.
 This repository Will be updated regularly every Friday, with a probability of 0.25.
 
 ## Contents
-* [About](About)
+* [About](#About)
 * The "Baby" Catalog
 * I would like to join the project
 * Change Logs
@@ -25,3 +25,6 @@ but focus on the dynamically discovered, X-ray quiet (or non-accreting) black ho
 Here are seven BHs collected so far: . 
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
+
+## Maintainers
+astroyi@stu.xmu.edu.cn
