@@ -4,7 +4,7 @@ BLACK holes MEasured or LOcated by DYnamical (radial velocity) method
 ## About
 This is a project aiming to collect stellar-mass black holes (BH) measured by dynamical method.
 We have currently collected seven targets discovered in recent years 
-and hopefully it will grow in size soon in a few years.
+and hopefully the number will boost in a few years.
 To constrcut and study an unbiased mass distribution of Galactic stellar-mass BHs, 
 one has to build a decent catalog of BHs discovered by different methods.
 Notably, [BlackCat](https://www.astro.puc.cl/BlackCAT/index.php) is 
