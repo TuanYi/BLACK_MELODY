@@ -36,7 +36,7 @@ Here are seven BHs collected so far:
 * NGC2004#115: [Lennon et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211112173L/abstract); The VLT-FLAMES survey of massive stars. NGC2004#115: A triple system hosting a possible short period B+BH binary
 
 Athough some of them still has controversy in the community of astronomy,
-many are great systems that definitely worth of take a good study at.
+many are great systems that definitely worth of taking a good study at.
 
 ## Join the Project Now
 
