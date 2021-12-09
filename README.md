@@ -25,13 +25,13 @@ but focus on the dynamically discovered, X-ray quiet (or non-accreting) black ho
 
 ## A Baby Catalog 
 Here are seven BHs collected so far: 
-*MW C656: [Casares et al. 2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract); A Be-type star with a black-hole companion
-*LB-1: [Liu et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..618L/abstract); A wide star-black-hole binary system from radial-velocity measurements
-*[Thompson et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract); A noninteracting low-mass black hole–giant star binary system
-*[]();
-*[]();
-*[]();
-*[](). 
+* MW C656: [Casares et al. 2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract) A Be-type star with a black-hole companion
+* LB-1: [Liu et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..618L/abstract); A wide star-black-hole binary system from radial-velocity measurements
+* [Thompson et al. 2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract); A noninteracting low-mass black hole–giant star binary system
+* []();
+* []();
+* []();
+* [](). 
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
 
