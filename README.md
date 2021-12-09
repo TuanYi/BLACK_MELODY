@@ -4,7 +4,7 @@ This repository Will be updated regularly every Friday, with a probability of 0.
 
 ## Contents
 * [About](#About)
-* [The "Baby" Catalog](#The "Baby" Catalog)
+* [A Baby Catalog](#A Baby Catalog)
 * [Join the Project Now!](#Join the Project Now!)
 * [Maintainers](#Maintainers)
 * [Change Log](#Change Log)
@@ -22,7 +22,7 @@ Our project is inspired by the fantastic work of
 [Corral-Santana et al. 2016](https://ui.adsabs.harvard.edu/abs/2016A%26A...587A..61C/abstract),
 but focus on the dynamically discovered, X-ray quiet (or non-accreting) black holes.
 
-## The "Baby" Catalog 
+## A Baby Catalog 
 Here are seven BHs collected so far: . 
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
