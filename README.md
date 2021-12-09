@@ -4,15 +4,16 @@ This repository Will be updated regularly every Friday, with a probability of 0.
 
 ## Contents
 * [About](#About)
-* The "Baby" Catalog
-* I would like to join the project
-* Change Logs
+* [The "Baby" Catalog](#The "Baby" Catalog)
+* [Join the Project Now!](#Join the Project Now!)
+* [Maintainers](#Maintainers)
+* [Change Logs](#Change Logs)
 
 ## About
 This is a project aiming to collect stellar-mass black holes (BH) measured by dynamical method.
 We have currently collected seven targets discovered in recent years 
 and hopefully the number will boost in a few years.
-To constrcut and study an unbiased mass distribution of Galactic stellar-mass BHs, 
+To construct and study an unbiased mass distribution of Galactic stellar-mass BHs, 
 one has to build a decent catalog of BHs discovered by different methods.
 Notably, [BlackCat](https://www.astro.puc.cl/BlackCAT/index.php) is 
 "a thorough and comprehensive catalogue containing the most updated information about 
@@ -25,6 +26,8 @@ but focus on the dynamically discovered, X-ray quiet (or non-accreting) black ho
 Here are seven BHs collected so far: . 
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
+
+## I would like to join the project
 
 ## Maintainers
 astroyi@stu.xmu.edu.cn
