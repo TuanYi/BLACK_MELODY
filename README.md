@@ -2,6 +2,12 @@
 BLACK holes MEasured or LOcated by DYnamical (radial velocity) method.
 This repository Will be updated regularly every Friday, with a probability of 0.25.
 
+## Contents
+* [About](About)
+* The "Baby" Catalog
+* I would like to join the project
+* Change Logs
+
 ## About
 This is a project aiming to collect stellar-mass black holes (BH) measured by dynamical method.
 We have currently collected seven targets discovered in recent years 
