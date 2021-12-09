@@ -4,8 +4,8 @@ This repository Will be updated regularly every Friday, with a probability of 0.
 
 ## Contents
 * [About](#About)
-* [A Baby Catalog](#A Baby Catalog)
-* [Join the Project Now!](#Join-the-Project-Now!)
+* [A-Baby-Catalog](#A-Baby-Catalog)
+* [Join-the-Project-Now!](#Join-the-Project-Now!)
 * [Maintainers](#Maintainers)
 * [Change Log](#Change Log)
 
@@ -27,7 +27,7 @@ Here are seven BHs collected so far: .
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
 
-## Join-the-Project-Now!
+## Join the Project Now!
 
 If you would like to join my project, please just let me known by noticing me. You are most welcomed! 
 
