@@ -35,7 +35,7 @@ Here are seven BHs collected so far:
 * NGC 1850 BH1: [Saracino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2924S/abstract); A black hole detected in the young massive LMC cluster NGC 1850
 * NGC2004#115: [Lennon et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211112173L/abstract); The VLT-FLAMES survey of massive stars. NGC2004#115: A triple system hosting a possible short period B+BH binary
 
-Athough some of them still candiates, many are great systems that definitely worth of taking a good study at.
+Athough some of them are still candiates, many are great systems that definitely worth of taking a good study at.
 
 ## Join the Project Now
 
