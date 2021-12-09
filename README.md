@@ -27,7 +27,9 @@ Here are seven BHs collected so far: .
 Athough some of them still has controversy in the community of astronomy,
 many are great systems that definitely worth of take a good study at.
 
-## Join the Project Now!
+## Join-the-Project-Now!
+
+If you would like to join my project, please just let me known by noticing me. You are most welcomed! 
 
 ## Maintainers
 astroyi@stu.xmu.edu.cn
