@@ -5,7 +5,7 @@ This repository Will be updated regularly every Friday, with a probability of 0.
 ## Contents
 * [About](#About)
 * [A Baby Catalog](#A Baby Catalog)
-* [Join the Project Now!](#Join the Project Now!)
+* [Join the Project Now!](#Join-the-Project-Now!)
 * [Maintainers](#Maintainers)
 * [Change Log](#Change Log)
 
