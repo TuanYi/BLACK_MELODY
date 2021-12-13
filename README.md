@@ -39,7 +39,7 @@ Athough some of them are still candiates, many are great systems that definitely
 
 ## Join the Project Now
 
-If you would like to join my project, please just let me known by noticing me. You are most welcomed! 
+If you would like to join my project, please just let me know. Your participation are most welcomed! 
 
 ## Maintainers
 astroyi@stu.xmu.edu.cn
