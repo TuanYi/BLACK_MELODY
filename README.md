@@ -36,7 +36,9 @@ Here are seven BHs collected so far:
 * NGC2004#115: [Lennon et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211112173L/abstract); The VLT-FLAMES survey of massive stars. NGC2004#115: A triple system hosting a possible short period B+BH binary
 
 Note that some of them are candidates, great discussions on these systems have been carried out.
-See [this ads library](https://ui.adsabs.harvard.edu/user/libraries/iUrTvxAJRT6IfZp5d-Mt9Q) for papers that discuss these systems. 
+See [this ads library](https://ui.adsabs.harvard.edu/user/libraries/iUrTvxAJRT6IfZp5d-Mt9Q) 
+for follow-up papers that discuss these systems. As you can see, some of them may not actually contain a BH,
+but systems with tricky properties that confuse us and thus 'disguise' them as a BH.
 Surely, to discover and confirm a BH is not a trivial task, but that is all the fun in it!
 
 
