@@ -35,7 +35,7 @@ Here are seven BHs collected so far:
 * NGC 1850 BH1: [Saracino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2924S/abstract); A black hole detected in the young massive LMC cluster NGC 1850
 * NGC2004#115: [Lennon et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211112173L/abstract); The VLT-FLAMES survey of massive stars. NGC2004#115: A triple system hosting a possible short period B+BH binary
 
-Note that some of them are candidates, great discussions on these systems have been carried on.
+Note that some of them are candidates, great discussions on these systems have been carried out.
 See [this ads library](https://ui.adsabs.harvard.edu/user/libraries/iUrTvxAJRT6IfZp5d-Mt9Q) for papers that discuss these systems. 
 Surely, to discover and confirm a BH is not a trivial task, but that is all the fun in it!
 
