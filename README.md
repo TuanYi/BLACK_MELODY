@@ -11,9 +11,9 @@ This repository Will be updated regularly every Month, with a probability of 0.2
 * [Change Log](#Change-Log)
 
 ## About
-This is a project aiming to collect stellar-mass black holes (BH) measured by dynamical method.
+This is a project aiming to collect stellar-mass black holes (BH) measured by the dynamical method.
 We have currently collected seven targets discovered in recent years 
-and hopefully the number will boost in a few years.
+and hopefully, the number will boost in a few years.
 To construct and study an unbiased mass distribution of Galactic stellar-mass BHs, 
 one has to build a decent catalog of BHs discovered by different methods.
 Notably, [BlackCat](https://www.astro.puc.cl/BlackCAT/index.php) is 
@@ -21,7 +21,7 @@ Notably, [BlackCat](https://www.astro.puc.cl/BlackCAT/index.php) is
 stellar-mass black holes (BHs), mainly focused in systems detected as X-ray transients."
 Our project is inspired by the fantastic work of 
 [Corral-Santana et al. 2016](https://ui.adsabs.harvard.edu/abs/2016A%26A...587A..61C/abstract),
-but focus on the dynamically discovered, X-ray quiet (or non-accreting) black holes.
+but focuses on the dynamically discovered, X-ray quiet (or non-accreting) black holes.
 If I missed your dynamically discovered BH(s), please let me know immediately. Apologize for my ignorance!
 
 ## Catalog Today
@@ -35,7 +35,10 @@ Here are seven BHs collected so far:
 * NGC 1850 BH1: [Saracino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2924S/abstract); A black hole detected in the young massive LMC cluster NGC 1850
 * NGC2004#115: [Lennon et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211112173L/abstract); The VLT-FLAMES survey of massive stars. NGC2004#115: A triple system hosting a possible short period B+BH binary
 
-Athough some of them are still candiates, many are great systems that definitely worth of taking a good study at.
+Note that some of them are candidates, great discussions on these systems have been carried on.
+See [this ads library](https://ui.adsabs.harvard.edu/user/libraries/iUrTvxAJRT6IfZp5d-Mt9Q) for papers that discuss these systems. 
+Surely, to discover and confirm a BH is not a trivial task, but that is all the fun in it!
+
 
 ## Join the Project Now
 
