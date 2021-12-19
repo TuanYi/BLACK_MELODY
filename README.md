@@ -1,7 +1,7 @@
 # BLACK_MELODY
 BLACK holes MEasured and/or LOcated by DYnamical (radial velocity) method.
 
-This repository Will be updated regularly every Month, with a probability of 0.25.
+This repository will be updated every month, with a probability of 0.25.
 
 ## Contents
 * [About](#About)
